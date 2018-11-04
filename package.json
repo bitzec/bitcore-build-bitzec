@@ -1,14 +1,14 @@
 {
-  "name": "bitcore-build-zcash",
+  "name": "bitcore-build-bitzec",
   "version": "0.5.4",
-  "description": "A helper for common tasks to build bitcore-zcash modules'",
+  "description": "A helper for common tasks to build bitcore-bitzec modules'",
   "main": "index.js",
   "scripts": {
     "test": "gulp test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/str4d/bitcore-build-zcash"
+    "url": "git://github.com/bitzec/bitcore-build-bitzec"
   },
   "keywords": [
     "bitcore"
@@ -33,9 +33,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/str4d/bitcore-build-zcash/issues"
+    "url": "https://github.com/bitzec/bitcore-build-bitzec/issues"
   },
-  "homepage": "https://github.com/str4d/bitcore-build-zcash",
+  "homepage": "https://github.com/bitzec/bitcore-build-bitzec",
   "dependencies": {
     "brfs": "^1.2.0",
     "browserify": "~13.1.0",
